@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href=" www.linkedin.com/in/hetvi patel-62434222a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Hetvi&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Hetvi Patel&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -62,6 +62,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HetviPatel-2002/HetviPatel-2002/output/snake.svg" alt="Snake animation" />
 
 ###
